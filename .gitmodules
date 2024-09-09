@@ -1,0 +1,3 @@
+[submodule "Timesheet"]
+	path = Timesheet
+	url = https://github.com/SteakFisher/Timesheet.git
